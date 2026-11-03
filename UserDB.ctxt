@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Nov 03 20:07:44 KST 2026
+comment0.target=UserDB
+comment0.text=\r\n userDB\uB294 \uC774\uC6A9\uC790DB \uD074\uB798\uC2A4\uC774\uB2E4.\r\n\r\n @author (Team 7)\r\n @version Iteration 1 (2026-11-03)\r\n
+comment1.params=userID
+comment1.target=user search(java.lang.String)
+comment1.text=\r\n \uC8FC\uC5B4\uC9C4 \uD559\uBC88\uC744 \uAC00\uC9C4 \uC774\uC6A9\uC790\uB97C \uAC80\uC0C9\uD55C\uB2E4.\r\n\r\n @param  userID  \uAC80\uC0C9\uD560 \uD559\uBC88\r\n @return \uD559\uBC88\uC774 \uC77C\uCE58\uD558\uB294 \uC774\uC6A9\uC790 \uAC1D\uCCB4, \uC5C6\uC73C\uBA74 null\r\n
+comment2.params=user
+comment2.target=void save(user)
+comment2.text=\r\n \uC0C8\uB85C\uC6B4 \uC774\uC6A9\uC790\uB97C \uC774\uC6A9\uC790DB\uC5D0 \uC800\uC7A5\uD55C\uB2E4.\r\n\r\n @param  user  \uC800\uC7A5\uD560 \uC774\uC6A9\uC790 \uAC1D\uCCB4\r\n
+numComments=3

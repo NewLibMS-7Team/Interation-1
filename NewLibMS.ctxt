@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Nov 03 19:50:34 KST 2026
+comment0.target=NewLibMS
+comment0.text=\r\n New \uB3C4\uC11C\uAD00\uAD00\uB9AC\uC2DC\uC2A4\uD15C\r\n\r\n @author (Team 7)\r\n @version Iteration 1 (2026-11-03)\r\n
+comment1.params=userID name
+comment1.target=void registerBorrower(java.lang.String, java.lang.String)
+comment1.text=\r\n \uC0C8\uB85C\uC6B4 \uC774\uC6A9\uC790\uB97C \uB4F1\uB85D\uD55C\uB2E4\r\n\r\n @param  userID  \uC774\uC6A9\uC790\uC758 \uD559\uBC88 \r\n @param  name    \uC774\uC6A9\uC790\uC758 \uC774\uB984\r\n
+comment2.params=bookID title author
+comment2.target=void input(java.lang.String, java.lang.String, java.lang.String)
+comment2.text=\r\n \uC0C8\uB85C\uC6B4 \uCC45\uC744 \uB4F1\uB85D\uD55C\uB2E4\r\n\r\n @param  bookID  \uCC45\uC758 \uB4F1\uB85D\uBC88\uD638\r\n @param  title   \uCC45\uC758 \uC81C\uBAA9\r\n @param  author  \uCC45\uC758 \uC800\uC790\r\n
+numComments=3

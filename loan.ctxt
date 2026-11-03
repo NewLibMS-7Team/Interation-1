@@ -1,0 +1,10 @@
+#BlueJ class context
+#Tue Nov 03 20:15:27 KST 2026
+comment0.target=loan
+comment0.text=\r\n loan\uC740 \uC774\uC6A9\uC790\uAC00 \uCC45\uC744 \uB300\uCD9C\uD55C \uC815\uBCF4\uB97C \uB098\uD0C0\uB0B4\uB294 \uB300\uCD9C \uD074\uB798\uC2A4\uC774\uB2E4.\r\n\r\n @author (Team 7)\r\n @version Iteration 1 (2026-11-03)\r\n
+comment1.params=user book
+comment1.target=loan(user, book)
+comment1.text=\r\n loan class constructor     \r\n \r\n @param  user  \uCC45\uC744 \uB300\uCD9C\uD558\uB294 \uC774\uC6A9\uC790\r\n @param  book  \uB300\uCD9C\uB418\uB294 \uCC45\r\n
+comment2.target=void display()
+comment2.text=\r\n \uB300\uCD9C\uC815\uBCF4(\uC774\uC6A9\uC790, \uCC45, \uB300\uCD9C\uC77C\uC2DC, \uBC18\uB0A9\uAE30\uD55C)\uB97C \uD654\uBA74\uC5D0 \uCD9C\uB825\uD55C\uB2E4. \r\n\r\n
+numComments=3

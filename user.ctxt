@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Nov 03 20:15:27 KST 2026
+comment0.target=user
+comment0.text=\r\n user\uB294 \uCC45\uC744 \uB300\uCD9C\uD560 \uC218 \uC788\uB294 \uB3C4\uC11C\uAD00 \uC774\uC6A9\uC790 \uD074\uB798\uC2A4\uC774\uB2E4.\r\n\r\n @author (Team 7)\r\n @version Iteration 1 (2026-11-03)\r\n
+comment1.params=userID name
+comment1.target=user(java.lang.String, java.lang.String)
+comment1.text=\r\n user class constructor\r\n\r\n @param  userID  \uC774\uC6A9\uC790\uC758 \uD559\uBC88\r\n @param  name    \uC774\uC6A9\uC790\uC758 \uC774\uB984\r\n
+comment2.target=java.lang.Boolean checkUser()
+comment2.text=\r\n \uB300\uCD9C\uAC00\uB2A5\uD55C \uC774\uC6A9\uC790\uC778\uC9C0 \uC5EC\uBD80\uB97C \uCCB4\uD06C\uD55C\uB2E4.\r\n\r\n @return  \uD604\uC7AC \uB300\uCD9C\uC774 \uC5C6\uC73C\uBA74 true, \uC788\uC73C\uBA74 false\r\n
+comment3.target=void display()
+comment3.text=\r\n \uC774\uC6A9\uC790\uC758 \uC815\uBCF4(\uC774\uB984, \uD559\uBC88)\uB97C \uD654\uBA74\uC5D0 \uCD9C\uB825\uD55C\uB2E4.\r\n\r\n
+numComments=4

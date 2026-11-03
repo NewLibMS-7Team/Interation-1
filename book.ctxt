@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Nov 03 20:15:27 KST 2026
+comment0.target=book
+comment0.text=\r\n book\uC740 \uB3C4\uC11C\uAD00\uC5D0 \uB4F1\uB85D\uB41C \uCC45 \uD074\uB798\uC2A4\uC774\uB2E4.\r\n\r\n @author (Team 7)\r\n @version Iteration 1 (2026-11-03)\r\n
+comment1.params=bookID title author
+comment1.target=book(java.lang.String, java.lang.String, java.lang.String)
+comment1.text=\ book class constructor\r\n\r\n @param  bookID  \uCC45\uC758 \uB4F1\uB85D\uBC88\uD638 (\uBC14\uCF54\uB4DC)\r\n @param  title   \uCC45\uC758 \uC81C\uBAA9\r\n @param  author  \uCC45\uC758 \uC800\uC790\r\n
+comment2.target=java.lang.Boolean checkBook()
+comment2.text=\r\n \uB300\uCD9C\uAC00\uB2A5\uD55C \uCC45\uC778\uC9C0 \uC5EC\uBD80\uB97C \uCCB4\uD06C\uD55C\uB2E4.\r\n\r\n @return  \uD604\uC7AC \uB300\uCD9C \uC911\uC774 \uC544\uB2C8\uBA74 true, \uB300\uCD9C \uC911\uC774\uBA74 false\r\n
+comment3.target=void display()
+comment3.text=\r\n \uCC45\uC758 \uC815\uBCF4(\uB4F1\uB85D\uBC88\uD638, \uC81C\uBAA9, \uC800\uC790)\uB97C \uD654\uBA74\uC5D0 \uCD9C\uB825\uD55C\uB2E4.\r\n\r\n
+numComments=4
